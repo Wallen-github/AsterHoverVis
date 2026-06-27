@@ -1,4 +1,4 @@
-# AsterHoverVis v0
+# AsterHoverVis
 
 AsterHoverVis v0 is an interactive asteroid-flyby hovering-orbit and
 surface-visibility tool based on the `figure_visibility_v3_standalone`
